@@ -218,6 +218,8 @@ body{
     width : 100%;
     height: auto;
     text-align: center;
+	
+    display: inline-block;
     border-top-right-radius: 15%;
     border-top-left-radius: 15%;
     border-bottom-left-radius: 50%;
